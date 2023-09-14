@@ -26,13 +26,8 @@ Bem-vindo ao **upload.ai**, uma aplicação construída no NLW que utiliza TypeS
 
 1. Clone este repositório em sua máquina local.
 2. Instale as dependências do projeto com `npm install`.
-3. Configure suas credenciais da API da OpenAI no arquivo `.env`:
-
-   ```env
-   OPENAI_KEY=SuaChaveDaAPIAqui
-   ```
-4. Inicie o servidor com `npm start`.
-5. Acesse a aplicação em `http://localhost:3000` em seu navegador.
+3. Inicie o servidor com `npm start`.
+4. Acesse a aplicação em `http://localhost:3000` em seu navegador.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja melhorar ou adicionar recursos à aplicação, sinta-se à vontade para abrir uma issue ou enviar um pull request.
