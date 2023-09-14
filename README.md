@@ -10,6 +10,7 @@ Bem-vindo ao **upload.ai**, uma aplicação construída no NLW que utiliza TypeS
 - Fastify
 - API da OpenAI
 - shadcn-ui
+- Tailwind CSS
 - Web Assembly
 - FFmpeg
 
