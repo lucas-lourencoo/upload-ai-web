@@ -30,8 +30,8 @@ Bem-vindo ao **upload.ai**, uma aplicação construída no NLW que utiliza TypeS
    ```env
    OPENAI_KEY=SuaChaveDaAPIAqui
    ```
-4. Inicie o servidor com npm start.
-5. Acesse a aplicação em http://localhost:3000 em seu navegador.
+4. Inicie o servidor com `npm start`.
+5. Acesse a aplicação em `http://localhost:3000` em seu navegador.
 
 ## Contribuição
 Contribuições são bem-vindas! Se você deseja melhorar ou adicionar recursos à aplicação, sinta-se à vontade para abrir uma issue ou enviar um pull request.
